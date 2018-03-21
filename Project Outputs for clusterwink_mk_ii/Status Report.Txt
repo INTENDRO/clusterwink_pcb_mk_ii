@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [clusterwink_mk_ii.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 14:33:26 On 21-Mar-18
