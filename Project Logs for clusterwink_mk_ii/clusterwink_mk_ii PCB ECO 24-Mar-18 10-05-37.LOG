@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=DATA3 Pin=P?-4
+Removed Pin From Net: NetName=DATA6 Pin=P?-7
+Removed Pin From Net: NetName=DATA7 Pin=P?-8
+Removed Pin From Net: NetName=NetC?_1 Pin=U?-2
+Removed Pin From Net: NetName=NetP?_2 Pin=U?-5
+Removed Pin From Net: NetName=NetQ?_1 Pin=U?-6
+Removed Member From Class: ClassName=pi Member=CB?
+Added Component: Designator=U?(MUB10A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187-BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LMP7712 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/ds/LM/LMP7712.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LMP7712 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/pf/LM/LMP7712.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "MUB10A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.national.com/packaging/folders/mub10a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jul-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Mini-SO, Molded, .118 x .118 x .034in Body, 10 Lead, .0197in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MUB10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "ZXTT*AD3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Jul-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LMP7712MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Added Component: Designator=U?(MUB10A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187-BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LMP7712 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/ds/LM/LMP7712.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LMP7712 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/pf/LM/LMP7712.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "MUB10A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.national.com/packaging/folders/mub10a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jul-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Mini-SO, Molded, .118 x .118 x .034in Body, 10 Lead, .0197in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MUB10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "ZXTT*AD3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Jul-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LMP7712MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_AUD Pin=C?-1
+Added Pin To Net: NetName=+5V_PI Pin=C?-1
+Added Pin To Net: NetName=+24V Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=DATA0 Pin=P?-1
+Added Pin To Net: NetName=DATA1 Pin=P?-2
+Added Pin To Net: NetName=DATA2 Pin=P?-3
+Added Pin To Net: NetName=+5V Pin=P?-4
+Added Pin To Net: NetName=DATA3 Pin=P?-4
+Added Pin To Net: NetName=DATA4 Pin=P?-5
+Added Pin To Net: NetName=DATA5 Pin=P?-6
+Added Pin To Net: NetName=DATA6 Pin=P?-7
+Added Pin To Net: NetName=DATA7 Pin=P?-8
+Added Pin To Net: NetName=SEND Pin=P?-9
+Added Pin To Net: NetName=B\/D Pin=P?-10
+Added Pin To Net: NetName=+24V Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=MISO Pin=U?-2
+Added Pin To Net: NetName=NetC?_1 Pin=U?-2
+Added Pin To Net: NetName=+5V_PI Pin=U?-3
+Added Pin To Net: NetName=PWM Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=+5V Pin=U?-5
+Added Pin To Net: NetName=NetP?_2 Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=NetQ?_1 Pin=U?-6
+Added Pin To Net: NetName=+24V Pin=U?-8
+Change Class Name : Old Net Name=led New Net Name=pi
+Change Class Name : Old Net Name=pi New Net Name=led
+Added Member To Class: ClassName=controller Member=Component C? Cap
+Added Member To Class: ClassName=controller Member=Component C? Cap
+Added Member To Class: ClassName=controller Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component C? Cap Pol2
+Added Member To Class: ClassName=pi Member=Component C? Cap Pol2
+Added Member To Class: ClassName=pi Member=Component C? Cap
+Added Member To Class: ClassName=led Member=Component C? Cap
+Added Member To Class: ClassName=led Member=Component C? Cap
+Added Member To Class: ClassName=pi Member=Component CB? Circuit Breaker
+Added Member To Class: ClassName=pi Member=Component P? Header 3
+Added Member To Class: ClassName=led Member=Component P? PLED
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=pi Member=Component R? Res2
+Added Member To Class: ClassName=led Member=Component R? Res2
+Added Member To Class: ClassName=led Member=Component R? Res2
+Added Member To Class: ClassName=led Member=Component R? Res2
+Added Member To Class: ClassName=led Member=Component R? Res2
+Added Member To Class: ClassName=controller Member=Component U? LMP7712MM
+Added Member To Class: ClassName=controller Member=Component U? LMP7712MM
+Added Member To Class: ClassName=pi Member=Component U? LM358M
+Added Member To Class: ClassName=pi Member=Component U? TRS1-2450
