@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Mario\Documents\github\clusterwink_pcb_mk_ii\clusterwink_mk_ii.PcbDoc
 Date     : 27/03/2018
-Time     : 20:24:18
+Time     : 23:01:34
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
    Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad U9-2(320.315mil,540.709mil) on Bottom Layer And Pad U9-1(300.63mil,540.709mil) on Bottom Layer 
@@ -417,4 +417,4 @@ Rule Violations :0
 
 Violations Detected : 369
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
