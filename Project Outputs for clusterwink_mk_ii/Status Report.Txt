@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [clusterwink_mk_ii.PrjPcb]
+Output: clusterwink_mk_ii
+Type  : NC Drill
+From  : PCB Document [clusterwink_mk_ii.PcbDoc]
+   Generated File[clusterwink_mk_ii.TXT]
+   Generated File[clusterwink_mk_ii.LDP]
+   Generated File[clusterwink_mk_ii.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 14:33:26 On 21-Mar-18
+Finished Output Generation At 14:55:11 On 28-Mar-18
